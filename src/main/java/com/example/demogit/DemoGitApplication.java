@@ -10,4 +10,5 @@ public class DemoGitApplication {
         SpringApplication.run(DemoGitApplication.class, args);
     }
     int d = 7;
+    int e = 8;
 }
