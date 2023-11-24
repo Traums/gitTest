@@ -12,5 +12,5 @@ public class DemoGitApplication {
         int b = 5;
         int c = 6;
     }
-
+    int e = 8;
 }
