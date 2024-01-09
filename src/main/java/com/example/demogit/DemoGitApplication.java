@@ -8,8 +8,9 @@ public class DemoGitApplication {
 
     public static void main(String[] args) {
         SpringApplication.run(DemoGitApplication.class, args);
+        int a = 4;
+        int b = 5;
+        int c = 6;
     }
-    int d = 7;
     int e = 8;
-    int f = 9;
 }
