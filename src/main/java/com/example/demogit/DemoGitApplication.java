@@ -12,4 +12,13 @@ public class DemoGitApplication {
     int d = 7;
     int e = 8;
     int f = 9;
+
+    int c = 10;
+
+    int c1 = 12;
+
+    int a1 = 1;
+
+    int a2 = 2;
+
 }
