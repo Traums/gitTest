@@ -30,4 +30,9 @@ public class DemoGitApplication {
 
     int a53 = 2;
 
+    int b = 3;
+
+    int b1 = 4;
+
+    int b2 = 5;
 }
