@@ -26,4 +26,6 @@ public class DemoGitApplication {
     int a42 = 4;
     int a5 = 5;
 
+    int a52 = 4;
+
 }
